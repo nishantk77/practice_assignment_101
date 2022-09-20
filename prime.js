@@ -1,5 +1,5 @@
 
-function prime(){
+function prime(num){
 
  for(i=0; i<=num**0.5; i++){
   
